@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author":"Vlad Kats",
 	"description":"This is my first npm package, cloned from github and hosted on Heroku",
+	"keywords":["freecodecamp","first project","backend","thisisfun"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
