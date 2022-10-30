@@ -1,13 +1,13 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author":"Vlad Kats",
-	"description":"This is my first npm package, cloned from github and hosted on Heroku",
+	"description":"This is my first npm package, cloned from github and hosted Locally",
 	"keywords":["freecodecamp","first project","backend","thisisfun"],
 	"license":"MIT",
 	"version":"1.0.0",
 	"dependencies": {
 		"express": "^4.14.0",
-		"@freecodecamp/example":"1.1.0"
+		"@freecodecamp/example":"1.2.13"
 	},
 	"main": "server.js",
 	"scripts": {
